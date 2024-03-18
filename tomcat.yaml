@@ -1,0 +1,8 @@
+id: tomcat-basic-auth
+
+info:
+  name: "Tomcat Basic Auth Bruteforce"
+  author: "oppsec"
+  description: "Apache Tomcat bruteforce with default credentials through HTTP Basic Auth method"
+  reference:
+    - "https://github.com/oppsec/tomcter"
